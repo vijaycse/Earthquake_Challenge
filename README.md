@@ -3,7 +3,7 @@ The goal of this analysis is to build off of the earthquake maps and create thre
 
 # Running them in local server
 
-![tectonic map](https://github.com/vijaycse/Mapping_Earthquakes/blob/master/resources/bellybuttpon_dashboard.png)
+![tectonic map](https://github.com/vijaycse/Mapping_Earthquakes/blob/main/Earthquake_Challenge/resources/Tectonic_Plate.png)
 
 
-![using map box](https://github.com/vijaycse/Mapping_Earthquakes/blob/master/resources/bellybuttpon_dashboard.png)
+![using map box](https://github.com/vijaycse/Mapping_Earthquakes/blob/main/Earthquake_Challenge/resources/Tectonic_Plate_mapbox.png)
